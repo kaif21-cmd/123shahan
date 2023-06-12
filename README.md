@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ### Hi there 👋
 
-<!--
+
 **123shahan/123shahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT AND MY SQL**
 
 - 📫 How to reach me **shahansalam123@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
