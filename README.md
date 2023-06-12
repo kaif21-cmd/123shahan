@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vecteezy.com/vector-art/5243297-software-development-programming-language-coding-3d-isometric-laptop-computer-with-digital-application-isolated-on-white-background-vector-design](https://123shahan.io)
+
 <h1 align="center">Hi 👋, I'm SHAHAN KHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
